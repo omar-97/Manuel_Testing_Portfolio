@@ -33,4 +33,4 @@ OG requires certain technical requirements to be met for the store to operate pr
 • jQuery
 • JavaScript
 • Database (MySQL)
-• Web Server (Apache
+• Web Server (Apache)
