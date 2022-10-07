@@ -10,7 +10,7 @@ Software Requirements Specification(SRS)
 Product Name: OG (Frontend)
 
 
-1. Introduction
+1. Introduction: 
 This Portfolio project aims to provide a collection of my professional projects to employers. It will help employers understand 
 my background as a software engineer, so include my most impressive projects and work experiences.
 
