@@ -1,5 +1,5 @@
 # Manuel_Testing_Portfolio
--Manuel testing of personal website
+-Manuel testing of a personal website
 
 -Personal Website Project
  
