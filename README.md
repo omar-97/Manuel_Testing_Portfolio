@@ -1,10 +1,10 @@
 # Manuel_Testing_Portfolio
-Manuel testing of personal website
+-Manuel testing of personal website
 
-Personal Website Project
+-Personal Website Project
  
  
-Software Requirements Specification
+Software Requirements Specification(SRS)
  
 
 Product Name: OG (Frontend)
