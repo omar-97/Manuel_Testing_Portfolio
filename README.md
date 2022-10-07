@@ -10,10 +10,6 @@ Software Requirements Specification
 Product Name: OG (Frontend)
 
 
-Prepared for
-WWW.OG.com
-
-
 1. Introduction
 This Portfolio project aims to provide a collection of my professional projects to employers. It will help employers understand 
 my background as a software engineer, so include my most impressive projects and work experiences.
